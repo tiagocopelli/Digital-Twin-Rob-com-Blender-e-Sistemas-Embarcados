@@ -67,4 +67,4 @@ Os comandos são organizados por meio de filas e protegidos por mutexes, garanti
 - Arduino IDE / CMake (dependendo do build)
 
 ## 🎥 Demonstração
-https://github.com/SEU_USUARIO/NOME_REPO/raw/main/media/demo.mp4
+![Demonstração do projeto](demonstracao.gif)
