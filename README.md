@@ -1,4 +1,4 @@
-## Projeto Final - Residência Tecnológica em Sistemas Embarcados - EmbarcaTech
+## Projeto Final - Residência Tecnológica em Desenvolvimento de Software Embarcado - EmbarcaTech
 
 ## 🤖 Robô com Digital Twin no Blender usando FreeRTOS
 
